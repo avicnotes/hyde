@@ -91,6 +91,15 @@ a.nav-item:focus {
 }
 
 /*End of new independent top nav bar*/
+
+.sidebar {
+  text-align: center;
+}
+
+.sidebar-nav-item {
+  line-height: 1.75;
+  margin-right: 15px;
+}
  /*End of Personal addition*/
 
 /*.sidebar {
