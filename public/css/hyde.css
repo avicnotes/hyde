@@ -73,6 +73,24 @@ html {
   color: #fff;
 }
 
+.nav-links {
+  margin-bottom: 1rem;
+}
+
+.nav-item {
+  line-height: 1.75;
+  margin-right: 15px;
+}
+
+a.nav-item:hover,
+a.nav-item:focus {
+  text-decoration: underline;
+}
+.nav-item.active {
+  font-weight: bold;
+}
+
+/*End of new independent top nav bar*/
  /*End of Personal addition*/
 
 .sidebar {

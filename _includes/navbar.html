@@ -6,10 +6,10 @@
             </a>
           </h1>
     </div>
-    <nav class="sidebar-nav">
+    <nav class="nav-links">
       <ul>
          {% for item in site.data.navlinks.docs %}
-              <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+              <a class="nav-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
          {% endfor %}
       </ul>
     </nav>
