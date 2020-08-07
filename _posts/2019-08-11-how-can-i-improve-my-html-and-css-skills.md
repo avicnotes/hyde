@@ -3,7 +3,7 @@ title: How can I improve my HTML and CSS skills?Answered
 date: 2019-08-11T18:12:17+00:00
 author: avic
 layout: post
-description: Use two methods skyrocket your HTML & CSS skills. 1. Practice HTML and CSS by building projects. 2. Identify your knowledge gaps and fill those gaps.
+description: Improve your HTML & CSS skills using 2 methods: 1. Practice HTML and CSS by building web projects. 2. Learn and solve challenges on the way.
 permalink: /how-can-i-improve-my-html-and-css-skills/
 categories:
   - CSS
