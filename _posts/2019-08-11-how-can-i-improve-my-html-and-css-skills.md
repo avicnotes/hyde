@@ -13,17 +13,15 @@ categories:
 <img class="aligncenter size-full wp-image-403" src="/public/08/practice-learn-improve.jpg" alt="three dice with the words learn practice improve"/>
 
 There are two steps you can use in order to improve your HTML and CSS skills:
-
-<li style="list-style-type: none;">
-  <ol>
+  
+<ol>
     <li>
       <strong>Practice HTML and CSS</strong> using the knowledge you already know <strong>by building projects</strong>.
     </li>
     <li>
       <strong>Identify</strong> the <strong>gaps</strong> in your <strong>knowledge</strong> and filling them in.
     </li>
-  </ol>
-</li>
+</ol>
 
 HTML and CSS are languages that you can pick up fast but takes a lot of time to master. This challenge can be overcome through lots of **persistence** and **practice**. Let look at how I can help you accomplish more using these two steps.
 
@@ -37,7 +35,6 @@ HTML and CSS are languages that you can pick up fast but takes a lot of time to 
 
 These are projects you build by following a video or blog post tutorial. These are really good for someone who has never built a project before. Some of these tutorials are:
 
-<li style="list-style-type: none;">
   <ol>
     <li>
       Learn <a href="https://www.udemy.com/learn-html-css-by-building-3-real-projects">HTML and CSS by building 3 projects</a>.
@@ -46,11 +43,10 @@ These are projects you build by following a video or blog post tutorial. These a
       Build a <a href="https://www.youtube.com/watch?v=moBhzSC455o">Responsive Grid CSS Website Layout</a> From Scratch.
     </li>
   </ol>
-</li>
 
 **PROS**
 
-<li style="list-style-type: none;">
+
   <ul>
     <li>
       You can learn about the workflow structure and planning of a complete an HTML CSS project.
@@ -62,11 +58,10 @@ These are projects you build by following a video or blog post tutorial. These a
       Helps you identify the missing gaps in your knowledge.
     </li>
   </ul>
-</li>
+
 
 **CONS**
 
-<li style="list-style-type: none;">
   <ul>
     <li>
       There is a lot of hand-holding since you get guided step by step. However, you can overcome this by pausing the tutorial, trying out that next step and then comparing the tutorials solution to your own.
@@ -75,7 +70,6 @@ These are projects you build by following a video or blog post tutorial. These a
       Some tutorials only teach one way of doing something which is limiting.
     </li>
   </ul>
-</li>
 
 You can find [10 more project-based tutorials on HTML and CSS](https://learn.avicndugu.com/project-based-html-css-tutorials/) on my article.
 
@@ -85,9 +79,6 @@ Build an already predefine HTML CSS practice project
 There are some developers who realised that every learner needs a project to practice as they learn. So they defined some projects that you can try out.  
 Some of these projects are:
 
-<li style="list-style-type: none;">
-  <ol>
-    <li style="list-style-type: none;">
       <ol>
         <li>
           <a href="/html-projects-tribute-page/">Build a Tribute Page</a> [Freecodecamp]<img class="alignnone size-full" src="https://miro.medium.com/max/700/1*QMlF5qHP4J-LmHG0bFsRCA.png" alt="Tribute website page" width="700" height="462" />
@@ -99,9 +90,6 @@ Some of these projects are:
           <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page">Build a Product Landing Page</a> [Freecodecamp]
         </li>
       </ol>
-    </li>
-  </ol>
-</li>
 
 You can read the complete list of 7 [HTML CSS practice projects for beginners[MEDIUM]](https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1).
 
@@ -172,19 +160,14 @@ There are two kinds of websites you can build upfront that can showcase your ski
 
 A portfolio website is a website that you build so that you can easily showcase some of your best work. And since you are a web developer, is there a better way to showcase your skills other than using a website?
 
-<li style="list-style-type: none;">
   <ul>
     <li>
       <strong>Hobby Website</strong>
     </li>
   </ul>
-</li>
 
 You can also create a website on your favourite hobby/ Interest.  In the website you can create content on:
 
-<li style="list-style-type: none;">
-  <ul>
-    <li style="list-style-type: none;">
       <ul>
         <li>
           what you have learnt.
@@ -196,15 +179,9 @@ You can also create a website on your favourite hobby/ Interest.  In the websit
           showcase what you do in your hobby(Projects, video recordings, products you create etc.)
         </li>
       </ul>
-    </li>
-  </ul>
-</li>
 
 **How to build a portfolio website**
 
-<li style="list-style-type: none;">
-  <ol>
-    <li style="list-style-type: none;">
       <ol>
         <li>
           Identify the purpose of the website and who is the website for.
@@ -219,9 +196,6 @@ You can also create a website on your favourite hobby/ Interest.  In the websit
           Create the website and add the content.
         </li>
       </ol>
-    </li>
-  </ol>
-</li>
 
 ### LEVEL 5: Design and build a website.
 
@@ -231,7 +205,6 @@ Once you are pretty good at building websites, you can also try your hand at des
 
 **How to design & build a website**
 
-<li style="list-style-type: none;">
   <ol>
     <li>
       Identify the kind of website you are building.
@@ -255,7 +228,6 @@ Once you are pretty good at building websites, you can also try your hand at des
       Get feedback from the customer during each major milestone to ensure you are on the right track.
     </li>
   </ol>
-</li>
 
 ## STEP 2: Identify and fill knowledge gaps in HTML and CSS
 
@@ -263,7 +235,6 @@ As you tackle the projects, you will find yourself in situations where you don&#
 
 Some of the common knowledge gaps that I have experienced before are:
 
-<li style="list-style-type: none;">
   <ol>
     <li>
       Positioning types and floats: <a href="https://internetingishard.com/html-and-css/advanced-positioning/#positioned-elements-for-animation">Advanced positioning</a> [Internetishard] & <a href="https://learn.shayhowe.com/html-css/positioning-content/">Positioning content</a>[Shayhowe]  &  <a href="https://internetingishard.com/html-and-css/floats/">CSS floats</a>[Internetishard].
@@ -281,7 +252,6 @@ Some of the common knowledge gaps that I have experienced before are:
       CSS animations
     </li>
   </ol>
-</li>
 
 #### Challenges in building your basic web development skills
 
@@ -289,7 +259,6 @@ When it comes to building web projects, there are some common some roadblocks th
 
 Some of the common roadblocks are:
 
-<li style="list-style-type: none;">
   <ul>
     <li>
       Finding or creating content(text, images, videos) for the website.
@@ -304,6 +273,5 @@ Some of the common roadblocks are:
       Choosing the tools to use in creating the website.
     </li>
   </ul>
-</li>
 
 Which action step will you be taking so that you can improve your HTML  and CSS skills? Share in the comments below.
