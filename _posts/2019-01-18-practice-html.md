@@ -1,12 +1,14 @@
 ---
-id: 42
-title: Learn HTML with Examples
+title: Learn HTML with practical step by step Examples
 date: 2019-01-18T08:03:08+00:00
 author: avic
 layout: post
-description: Learn HTML using simple & practical examples. See how HTML works step by step from basic to advanced stage.
+description: Learn the basics of HTML using simple & practical examples. See how HTML works step by step from basic to advanced stage.
 permalink: /practice-html/
 ---
+<img src="public/2020/learn-html-through-examples.jpg">
+
+Learn the basics of HTML using simple & practical examples. In this post you get to see how HTML works step by step on all the HTML tags.
 
 Outline
 
@@ -42,38 +44,9 @@ HTML documents are normal text documents but with &#8216;**.html**&#8216; file n
 
 When the HTML file is viewed on a browser, the browser interprets the HTML code is but does not display the html code itself.
 
-To view the html code itself, you can right click on the webpage and click on view source.
+To **view the html code** itself, you can right click on the webpage and click on view source.
 
-
-
-To edit the HTML, you need to use a text editor.
-
-<h2 id="html-editors">HTML Text Editors</h2>
-
-HTML text editors allow you to create and edit HTML files. There are many text editors you can use. Some of them are:
-
-<li style="list-style-type: none;">
-  <ol>
-    <li style="list-style-type: none;">
-      <ol>
-        <li>
-          Sublime text editor of my choice. Their upgrade notification might annoy you.
-        </li>
-        <li>
-          Notepad++ (for windows only).
-        </li>
-        <li>
-          Atom (for windows and Ubuntu).
-        </li>
-        <li>
-          Visual Studio Code (for windows and Ubuntu).
-        </li>
-      </ol>
-    </li>
-  </ol>
-</li>
-
-You can read more about html text editors.
+You need to use a text editor, to edit the HTML code. There are many text editors you can use like Sublime Text or Notepad++.
 
 **Html elements**
 
