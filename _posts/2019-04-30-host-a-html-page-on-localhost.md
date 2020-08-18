@@ -49,8 +49,6 @@ Python has a in-built server that you can run with a single command.
 
 For this method to work, you need to have python installed on your computer. You can check if you have python installed on Windows computer by checking if it is in your programs list. 
 
-
-
 For Ubuntu, Mac OS X and Debian, Python comes preinstalled. You can easily check if you have python in your system by typing <code> python --version </code>  on the terminal.
 
 <strong>Running a html page on localhost UNIX</strong>(Linux and Mac OS X)
@@ -80,12 +78,12 @@ For Ubuntu, Mac OS X and Debian, Python comes preinstalled. You can easily check
     <li>
       Go to your browser and type 0.0.0.0:8000 or localhost:8000.
     </li>
-    <li>
-      You can set a specific port number by adding the port numuber to the command. The command on the terminal becomes : <code> python -m SimpleHTTPServer 6734 </code>
-    </li>
   </ol>
 </li>
+<img src="/public/2020/python-localhost-screenshot.jpg" alt="Screenshot of terminal and browser on locahost python"/>
 
+You can set a specific port number by adding the port numuber to the command. The command on the terminal becomes : <code> python -m SimpleHTTPServer 6734 </code>
+  
 Then on the browser type <code> localhost:6734</code> as the URL.
 
 <h2 id="php-section">## Method 2: Use PHP to run an inbuilt localhost server</h2>
@@ -131,6 +129,7 @@ Press Ctrl-C to quit.</pre>
     </li>
   </ol>
 </li>
+<img src="/public/2020/php-localhost-screenshot.jpg" alt="Screenshot of terminal and browser on localhost php"/>
 
 You can read more on <a href="https://www.php.net/manual/en/features.commandline.webserver.php" target="_blank" rel="noopener noreferrer">PHP built in web server</a>.
 
