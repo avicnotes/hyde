@@ -159,4 +159,4 @@ Most times you will see localhost url written as **localhost:8000** or any other
 
 When you try to access localhost now, you will find nothing there. You need to host a html file on a server(on your computer) that serves a page on localhost. Once the server is ready, accessing the localhost on a browser will display the page or folder served by the server.
 
-If you are new to HTML, you can [learn and practice HTML](https://learn.avicndugu.com/practice-html/) on this website.
+If you are new to HTML, you can [learn and practice HTML](https://devpractical.com/practice-html/) on this website.
