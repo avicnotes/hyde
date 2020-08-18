@@ -6,7 +6,8 @@ layout: post
 description: Learn the basics of HTML using simple & practical examples. See how HTML works step by step from basic to advanced stage.
 permalink: /practice-html/
 ---
-<img src="/public/2020/learn-html-through-examples.jpg">
+
+<img src="/public/2020/learn-html-through-examples.jpg" alt="image poster of learning HTML"/>
 
 Learn the basics of HTML using simple & practical examples. In this post you get to see how HTML works step by step on all the HTML tags.
 
