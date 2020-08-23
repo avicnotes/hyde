@@ -113,3 +113,5 @@ Codepen is the easiest one to setup. You just need an account to begin with. The
 This one takes time to setup. However, you can use the Github.com web based editor to upload or copy paste your HTML.
 
 Then you need to go to the repository setting to enable the projects to be viewed on <your-username>.github.io/<repository-name>
+
+If you are still stuck on what to do for your first HTML project, checkout my step by step illustrated guide on how to [create your first HTML web page.](https://devpractical.com/create-a-web-page-using-html/)
