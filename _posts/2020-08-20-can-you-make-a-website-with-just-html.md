@@ -1,8 +1,9 @@
 ---
 title: 'Can you make a website with just HTML?[Answered]'
-date: 2020-06-30T09:35:34+00:00
+date: 2020-08-30T09:35:34+00:00
 layout: post
-permalink: /host-html-on-github/
+description: Yes, you can make a website using just HTML. The website will can have text, links, pictures, videos and audio. You can then use CSS to make it look better. You can checkout an example of how a HTML only website would look like.
+permalink: /can-you-make-a-html-only-website/
 ---
 
 Yes, you can make a website using your knowledge of HTML only. I have created an example website purely out of HTML that you can checkout for yourself. Here is how it looks like.
