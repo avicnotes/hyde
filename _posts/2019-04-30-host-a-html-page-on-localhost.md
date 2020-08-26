@@ -3,7 +3,7 @@ title: How to host a HTML page on localhost
 date: 2019-04-30T17:05:54+00:00
 author: avic
 layout: post
-description: You will learn how to use Python, PHP and NODEJS host a HTML page on localhost. You don't need to know any of these three languages to run a HTML page on local host.
+description: You can host and run a HTML page on local host using either Python, PHP and NODEJS. Type php -S localhost:8000 on the terminal.  Type http://localhost:8000 on a browser to view your HTML website.
 permalink: /host-a-html-page-on-localhost/
 categories:
   - HTML
@@ -49,8 +49,6 @@ Python has a in-built server that you can run with a single command.
 
 For this method to work, you need to have python installed on your computer. You can check if you have python installed on Windows computer by checking if it is in your programs list. 
 
-
-
 For Ubuntu, Mac OS X and Debian, Python comes preinstalled. You can easily check if you have python in your system by typing <code> python --version </code>  on the terminal.
 
 <strong>Running a html page on localhost UNIX</strong>(Linux and Mac OS X)
@@ -80,12 +78,12 @@ For Ubuntu, Mac OS X and Debian, Python comes preinstalled. You can easily check
     <li>
       Go to your browser and type 0.0.0.0:8000 or localhost:8000.
     </li>
-    <li>
-      You can set a specific port number by adding the port numuber to the command. The command on the terminal becomes : <code> python -m SimpleHTTPServer 6734 </code>
-    </li>
   </ol>
 </li>
+<img src="/public/2020/python-localhost-screenshot.jpg" alt="Screenshot of terminal and browser on locahost python"/>
 
+You can set a specific port number by adding the port numuber to the command. The command on the terminal becomes : <code> python -m SimpleHTTPServer 6734 </code>
+  
 Then on the browser type <code> localhost:6734</code> as the URL.
 
 <h2 id="php-section">## Method 2: Use PHP to run an inbuilt localhost server</h2>
@@ -131,6 +129,7 @@ Press Ctrl-C to quit.</pre>
     </li>
   </ol>
 </li>
+<img src="/public/2020/php-localhost-screenshot.jpg" alt="Screenshot of terminal and browser on localhost php"/>
 
 You can read more on <a href="https://www.php.net/manual/en/features.commandline.webserver.php" target="_blank" rel="noopener noreferrer">PHP built in web server</a>.
 
@@ -160,4 +159,4 @@ Most times you will see localhost url written as **localhost:8000** or any other
 
 When you try to access localhost now, you will find nothing there. You need to host a html file on a server(on your computer) that serves a page on localhost. Once the server is ready, accessing the localhost on a browser will display the page or folder served by the server.
 
-If you are new to HTML, you can [learn and practice HTML](https://learn.avicndugu.com/practice-html/) on this website.
+If you are new to HTML, you can [learn and practice HTML](https://devpractical.com/practice-html/) on this website.

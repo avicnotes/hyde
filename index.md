@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home-page
 title: Want to Learn & Practice building HTML and CSS websites?
 description: Choose from the list practical projects to learn & practice HTML and CSS. Learn how to create a project from zero to publishing it online.
 ---

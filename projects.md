@@ -32,7 +32,7 @@ The first approach is to find pure HTML projects. If that is what you need, you 
     Documentation page.(coming soon)
   </li>
   <li>      
-    Blog page.(coming soon)
+    <a href="/create-a-web-page-using-html/">Blog page</a>
   </li>
   <li>      
     Business page.(coming soon)
