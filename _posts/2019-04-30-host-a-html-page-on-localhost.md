@@ -1,5 +1,5 @@
 ---
-title: How to host a HTML page on localhost
+title: How do I host an HTML page locally?[Answered]
 date: 2019-04-30T17:05:54+00:00
 author: avic
 layout: post
