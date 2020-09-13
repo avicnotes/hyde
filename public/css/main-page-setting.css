@@ -10,6 +10,9 @@ html {
   html {
     font-size: 18px;
   }
+  h1 {
+    font-size: 1.5rem;
+  }
 }
 
 @media (min-width: 58em) {
