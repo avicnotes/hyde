@@ -1,6 +1,6 @@
 ---
 layout: home-page
-title: Want to Learn & Practice building HTML and CSS websites?
+title: 'Do you want to Learn HTML and CSS & Practice creating websites?'
 description: Choose from the list practical projects to learn & practice HTML and CSS. Learn how to create a project from zero to publishing it online.
 ---
 We have **tutorials** and **projects** meant to help you build and customize websites in your own style. 
