@@ -16,13 +16,11 @@ You will be using text editors to write HTML, CSS and Javascript. I recommend th
 There alot of resources that can teach you HTML and CSS. Based on my experience, these courses offered on these websites are suitable and relevant for beginners.
 - [Freecodecamp](https://www.freecodecamp.org/learn)
 
-- [Team Tree house](https://teamtreehouse.com/tracks/front-end-web-development)
-
 - [Internet is Hard](https://www.internetingishard.com/)
 
 - [learn.shayhowes.com](https://learn.shayhowe.com/)
 
-Brad Traversy courses on [Youtube]() and [Udemy]().
+- Brad Traversy courses on [Youtube](https://m.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) and [Udemy]().
 
 ## 3. Code Sharing:
 When you need to share your code with others, you can use these two code sharing website.
@@ -38,7 +36,7 @@ You can use the following web hosts to publish your website online.
 - [Bluehost](https://www.bluehost.com/track/devpractical): convenient for Wordpress website but can work for any other website.
 
 ## 5. Buy domain name:
-You can buy your domain name from any seller. I use [Bitsimba](https://bitsimba.com/clients/aff.php?aff=22) to buy my domains. I use them because I can pay using Mpesa wallet.
+You can buy your domain name from any seller. I use [Bitsimba](https://bitsimba.com/clients/aff.php?aff=22) to buy my domains. I use them because I can pay using Mpesa mobile wallet.
 You can also host a Wordpress or HTML website with them and get SSL without additional cost.
 
 Remember, any host can sell you a domain name and then you can point it to your prefered host.
