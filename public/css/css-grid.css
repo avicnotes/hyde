@@ -8,6 +8,13 @@
     .main {
         border-right: 1px solid #ccc;
     }
+    /*Layout navbar*/
+    header {
+        display:flex;
+        justify-content:space-between;
+
+    }
+    /*End of layout navbar*/
 }
 
 @media (min-width: 64em) {
@@ -21,3 +28,6 @@
     }
 }
 /*End of layout content and sidebar*/
+
+
+
