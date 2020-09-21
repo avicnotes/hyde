@@ -2,13 +2,13 @@
 @media (min-width: 48em) {
     .content {
         display: grid;
-        grid-template-columns: auto 220px;
+        grid-template-columns: auto 300px;
         grid-column-gap: 35px;
         padding:0 32px;
     }
     .main {
         border-right: 1px solid #ccc;
-        padding:1.5rem 2rem 1rem 2rem;
+        padding:0rem 2rem 1rem 0rem;
     }
     /*Layout navbar*/
     header {
