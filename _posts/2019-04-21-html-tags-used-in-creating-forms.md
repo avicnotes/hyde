@@ -7,46 +7,18 @@ permalink: /html-tags-used-in-creating-forms/
 categories:
   - HTML
 ---
-<span style="font-weight: 400;">The html tags used in creating forms online are <strong><form> </form></strong> tags pair. These 2 html tags <strong>are</strong> the <strong>container</strong> that <strong>holds other tags</strong> that create the <strong>form fields</strong> to be filled. The tags used together with the form tags are:</span>
+<span style="font-weight: 400;">The html tags used in creating forms online are <strong>```<form> </form>```</strong> tags pair. These 2 html tags <strong>are</strong> the <strong>container</strong> that <strong>holds other tags</strong> that create the <strong>form fields</strong> to be filled. The tags used together with the form tags are:</span>
 
-<li style="list-style-type: none;">
-  <ol>
-    <li style="list-style-type: none;">
-      <ol>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><label> </label></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><input></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><textarea> </textarea></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><button></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><select></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><option></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><optgroup></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><fieldset></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><label></span>
-        </li>
-        <li style="font-weight: 400;">
-          <span style="font-weight: 400;"><output></span>
-        </li>
-      </ol>
-    </li>
-  </ol>
-</li>
+- ```<label> </label>```
+- ```<input>```
+- ```<textarea> </textarea>```
+- ```<button>```
+- ```<select>```
+- ```<option>```
+- ```<optgroup>```
+- ```<fieldset>```
+- ```<label>```
+- ```<output>```
 
 <span style="font-weight: 400;">That&#8217;s all the HTML tags you will need to create a form using HTML. However, I can show you how all of them are used below.</span>
 
@@ -164,7 +136,7 @@ categories:
 <span style="font-weight: 400;">This is a text area that holds text on multiple number of lines. It can display text on 4 rows and can allow 30 characters per row.</span>
 <span style="font-weight: 400;">&lt;/textarea&gt;</span></pre>
 
-### <span style="font-weight: 400;">Dropdown list <select></span>
+### Dropdown list ```<select>```
 
 <span style="font-weight: 400;">This is a dropdown list that appears when clicked. once clicked, the input goes back to the original view.</span>
 
@@ -204,21 +176,13 @@ categories:
 ### <span style="font-weight: 400;">Form method</span>
 
 <span style="font-weight: 400;">This specifies the method by which you want the data to be sent. There are two methods.</span>
-
-<li style="list-style-type: none;">
-  <ol>
-    <li style="list-style-type: none;">
-      <ol>
-        <li>
-          <h4>
-            <span style="font-weight: 400;"> Get</span>
-          </h4>
-        </li>
-      </ol>
-    </li>
-  </ol>
-</li>
-
+<ol>
+  <li>
+      <h4>
+           Get
+     </h4>
+ </li>
+</ol>
 <span style="font-weight: 400;">The items to be sent appears on the URL which makes it less secure.</span>
 
 <pre><span style="font-weight: 400;">&lt;form action="subscriber.php" method="get"&gt;</span>
@@ -227,19 +191,13 @@ categories:
 <span style="font-weight: 400;">  &lt;input type="submit" value="Subscribe!"&gt;</span>
 <span style="font-weight: 400;">&lt;/form&gt;</span></pre>
 
-<li style="list-style-type: none;">
-  <ol>
-    <li style="list-style-type: none;">
-      <ol start="2">
-        <li>
-          <h4>
-            <span style="font-weight: 400;"> Post</span>
-          </h4>
-        </li>
-      </ol>
-    </li>
-  </ol>
-</li>
+<ol start="2">
+  <li>
+     <h4>
+       Post</span>
+     </h4>
+  </li>
+</ol>
 
 <span style="font-weight: 400;">It is considered more secure and is the default method used when not specified.</span>
 
