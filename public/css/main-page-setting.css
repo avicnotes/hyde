@@ -52,10 +52,11 @@ a {
 /*styling nav bar*/
 header {
     text-align: center;
-    background-color: #39b54a;
+    background-color: #02781c;
+}
+header a{
     color:#fff;
 }
-
 /*header {
     border-bottom: 1px solid #ddd;
 }*/
