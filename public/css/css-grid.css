@@ -4,15 +4,19 @@
         display: grid;
         grid-template-columns: auto 220px;
         grid-column-gap: 35px;
+        padding:0 32px;
     }
     .main {
         border-right: 1px solid #ccc;
+        padding:1.5rem 2rem 1rem 2rem;
     }
     /*Layout navbar*/
     header {
         display:flex;
         justify-content:space-between;
-        padding:2rem 1rem;
+        padding:1rem 2rem;
+        background-color:#39b54a;
+        color:#ddd;
     }
     /*End of layout navbar*/
 }
