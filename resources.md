@@ -4,7 +4,7 @@ title: Useful Resources
 permalink: /resources/
 ---
 <div class="card" style="text-align: left;">
-<small><b>Disclosure:</b> Your support can help keep this website running! I earn a referral fee for some of the services we recommend on this page. <a href="/about">learn more</a></small>
+<small><b>Disclosure:</b>As an Amazon Associate I earn from qualifying purchases of some products in this post at no additional cost to you. Thank you for your awesome support.  <a href="/about">learn more</a></small>
 </div>
 
 <ol><li><h2>HTML and CSS Books</h2></li></ol>
