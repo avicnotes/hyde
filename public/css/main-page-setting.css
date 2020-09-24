@@ -33,8 +33,9 @@ body {
 a {
   color: #02781c;
 }
-.about > a {
+.site-title {
   color: #414141;
+  font-size: 1.4rem;
 }
 
 .aside {
