@@ -86,7 +86,7 @@ You can set a specific port number by adding the port numuber to the command. Th
   
 Then on the browser type <code> localhost:6734</code> as the URL.
 
-<h2 id="php-section">## Method 2: Use PHP to run an inbuilt localhost server</h2>
+<h2 id="php-section">Method 2: Use PHP to run an inbuilt localhost server</h2>
 
 Php also has an i built web server that can run your files on local host.
 
