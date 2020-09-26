@@ -1,6 +1,6 @@
 ---
 title: 'How to create internal links to a section on the same page in HTML'
-date: 2020-09-26
+date: 2020-09-26T17:05:54+00:00
 layout: post
 description: 'You can create a link to a specific section or element on a the same webpage in two steps: 1. Assign the section/ element an id. <p id="section-1">The link jumps to this paragraph</p> 2. Add the id value to the link.<a href="#section-1">section-1</a>'
 permalink: /internal-links-same-page/
