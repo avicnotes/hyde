@@ -75,8 +75,6 @@ This is a basic HTML page.
 
 Anything that you want to be displayed on the HTML page is added between the body tags.
 
-<iframe width="500" height="300" src="https://scrimba.com/p/pZaVfV/cPydyur.embed"> </iframe>
-
 ## HTML Text Tags
 
    1. <h3 id="html-heading"> Headings: Creating Headings using HTML</h3>
