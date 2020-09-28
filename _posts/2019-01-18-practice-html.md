@@ -75,7 +75,7 @@ This is a basic HTML page.
 
 Anything that you want to be displayed on the HTML page is added between the body tags.
 
-<iframe width=&#8221;500&#8243;  height=&#8221;300&#8243; src=&#8221;<https://scrimba.com/p/pZaVfV/cPydyur>.embed&#8221;> </iframe>
+<iframe width="500" height="300" src="https://scrimba.com/p/pZaVfV/cPydyur.embed"> </iframe>
 
 ## HTML Text Tags
 
