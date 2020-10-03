@@ -2,7 +2,7 @@
 title: 'How to create internal links to a section on the same page in HTML'
 date: 2020-09-26T17:05:54+00:00
 layout: post
-description: 'You can create a link to a specific section or element on a the same webpage in two steps: 1. Assign the section/ element an id. <p id="section-1">The link jumps to this paragraph</p> 2. Add the id value to the link.<a href="#section-1">section-1</a>'
+description: 'You can create a link to a specific section or element on a the same webpage in two steps: 1. Assign the section/ element an id. id="section-1" 2. Add the id value to the link.href="#section-1"'
 permalink: /internal-links-same-page/
 ---
 You can create a **link to a specific section** or element on a the **same webpage** in two steps:
@@ -11,8 +11,10 @@ You can create a **link to a specific section** or element on a the **same webpa
 3. Linking to a section on different webpage.
 4. Create link to element of a different website.
 
-You can try it out by clicking on any of the four links above.
-
+You can try it out by clicking on any of the links above.
+<div class="video-responsive">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JEsLhyAaaFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ## Where and Why you should use Jump links to specific parts of a webpage.
 - **On long articles:** If you have a really long articles, its makes it easy for your users to navigate your website. 
 - **A specific call to action on a webpage:** Jump links are perfect you want your readers to subscribe, or contact or any other action located lower in the page.
