@@ -80,17 +80,17 @@ Build an already predefine HTML CSS practice project
 There are some developers who realised that every learner needs a project to practice as they learn. So they defined some projects that you can try out.  
 Some of these projects are:
 
-      <ol>
-        <li>
-          <a href="/html-projects-tribute-page/">Build a Tribute Page</a> [Freecodecamp]<img class="alignnone size-full" src="https://miro.medium.com/max/700/1*QMlF5qHP4J-LmHG0bFsRCA.png" alt="Tribute website page" width="700" height="462" />
-        </li>
-        <li>
-          <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form">Build a Survey Form</a> [Freecodecamp]
-        </li>
-        <li>
-          <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page">Build a Product Landing Page</a> [Freecodecamp]
-        </li>
-      </ol>
+  <ol>
+    <li>
+      <a href="/html-projects-tribute-page/">Build a Tribute Page</a> [Freecodecamp]<img class="alignnone size-full" src="https://miro.medium.com/max/700/1*QMlF5qHP4J-LmHG0bFsRCA.png" alt="Tribute website page" width="700" height="462" />
+    </li>
+    <li>
+      <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form">Build a Survey Form</a> [Freecodecamp]
+    </li>
+    <li>
+      <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page">Build a Product Landing Page</a> [Freecodecamp]
+    </li>
+  </ol>
 
 You can read the complete list of 7 [HTML CSS practice projects for beginners[MEDIUM]](https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1).
 
@@ -169,34 +169,34 @@ A portfolio website is a website that you build so that you can easily showcase 
 
 You can also create a website on your favourite hobby/ Interest.  In the website you can create content on:
 
-      <ul>
-        <li>
-          what you have learnt.
-        </li>
-        <li>
-          resources for anyone who wants to engage in your hobby.
-        </li>
-        <li>
-          showcase what you do in your hobby(Projects, video recordings, products you create etc.)
-        </li>
-      </ul>
+  <ul>
+    <li>
+      what you have learnt.
+    </li>
+    <li>
+      resources for anyone who wants to engage in your hobby.
+    </li>
+    <li>
+      showcase what you do in your hobby(Projects, video recordings, products you create etc.)
+    </li>
+  </ul>
 
 **How to build a portfolio website**
 
-      <ol>
-        <li>
-          Identify the purpose of the website and who is the website for.
-        </li>
-        <li>
-          Identify and create the content for the website.
-        </li>
-        <li>
-          Choose and adapt a design from the various free online template.
-        </li>
-        <li>
-          Create the website and add the content.
-        </li>
-      </ol>
+  <ol>
+    <li>
+      Identify the purpose of the website and who is the website for.
+    </li>
+    <li>
+      Identify and create the content for the website.
+    </li>
+    <li>
+      Choose and adapt a design from the various free online template.
+    </li>
+    <li>
+      Create the website and add the content.
+    </li>
+  </ol>
 
 ### LEVEL 5: Design and build a website.
 
