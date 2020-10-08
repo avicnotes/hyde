@@ -8,7 +8,7 @@ permalink: /how-to-practice-html-offline/
 categories:
   - HTML
 ---
-<img src="/public/2020/text-editors-html-css.png" alt="Splash image for practicing HTML & CSS offline"/>
+<img src="/public/2020/practice-html-offline.png" alt="Splash image for practicing HTML & CSS offline"/>
 
 By now you have learnt HTML using online tool and tutorials. However, you also want to practice HTML without using the online tutorial code editor. Well, you can practice HTML offline by using a browser and a text editor.
 
