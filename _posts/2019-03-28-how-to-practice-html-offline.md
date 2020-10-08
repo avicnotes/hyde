@@ -1,5 +1,5 @@
 ---
-title: How to practice HTML offline
+title: How to practice HTML & CSS offline
 date: 2019-03-28T17:21:23+00:00
 author: avic
 layout: post
@@ -12,19 +12,20 @@ By now you have learnt HTML using online tool and tutorials. However, you also w
 
 A quick note. HTML is written in text files. You don’t need internet to view HTML files stored on your computer which is a good thing.
 
-<!--more-->
 
 ### Outline
 You can use my 4 steps to be able to practice our html skills offline
 
-  1. Tools needed: a browser and a text editor.
-  2. Content creation.
-  3. HTML practice project.
-  4. Getting the project online.
+1. Tools needed: a browser, a text editor, and an offline HTML and CSS course.
+2. Content creation.
+3. HTML practice project.
+4. Getting the project online.
 
-## Tools needed
+## 1. Offline Tools for practicing HTML
+You will only need two tools to be able to learn and practice HTML offline.
 
-### Text editor
+### Offline HTML Text editor
+<img src="/public/2020/text-editors-html-css.png" alt=""/>
 
 This will enable you to write and edit code the HTML file. Each computer already has a text editor. For now, you don’t need to install anything new.
 
@@ -32,18 +33,19 @@ However, if you want to try a dedicated code text editor, you can install Sublim
 
 Point to note. Don’t use word processing software like Word document. They will mess up your HTML code.
 
-### Web browser
+### Web browser for viewing HTML webpages
+<img src="/public/2020/internet-browsers.jpg" alt="Internet web browsers"/>
 
 We shall use the web browser to view the HTML document. There are many web browsers you can use but I recommend firefox or chrome.
 
 ### Web Maker (optional)
 
-Webmaker is an offline chrome extension. It lets you edit the code and see the results right on the browser.<del>I</del>
+Webmaker is an offline chrome extension. It lets you edit the code and see the results right on the browser.
 
 If you have used codepen.io, you will notice the similarities. Install this browser extension to continue the interface you already know and like offline.  
 <del>.</del>
 
-## Content creation
+## 2. Content creation
 
 You will need the words, pictures and/or videos that will go onto your web page / html project. If you already have the content with you skip to the next step.
 
@@ -59,7 +61,7 @@ However, if you will publish the content online, you have 3 ways you can go abou
 
 Make sure you save tyour content somewhere. I usually collect the information in a google docs document or a text file.
 
-## **First HTML practice project**
+## 3. **First HTML practice project**
 
 Now let’s get to the action.
 
@@ -81,7 +83,7 @@ Open the HTML file using a browser to view the result.
 
 And voila, you have made your first offline webpage.
 
-## **Getting the project online**
+## 4.**Getting your HTML project online**
 
 Once you have made a webpage, you might want to publish it so that other can see it.
 
