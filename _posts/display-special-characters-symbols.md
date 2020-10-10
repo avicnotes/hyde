@@ -1,4 +1,10 @@
-Display special characters and symbols in HTML
+---
+title: How to display special characters and symbols in HTML page
+date: 2021-01-26T19:35:26+00:00
+author: avic
+layout: post
+permalink: /display-special-characters-symbols-html/
+---
 
 Searches related to display symbols in html
 display special characters in html
@@ -56,3 +62,12 @@ LEFTWARDS ARROW
 
 
 How to display emoji's in HTML
+
+
+More keywords to include in this post:
+HTML unicode
+HTML character codes
+HTML symbols arrow
+HTML reserved characters
+HTML special characters list
+how are special characters represented in HTML
