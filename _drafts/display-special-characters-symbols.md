@@ -71,3 +71,17 @@ HTML symbols arrow
 HTML reserved characters
 HTML special characters list
 how are special characters represented in HTML
+
+
+
+SOUND RECORDING COPYRIGHT
+
+https://www.toptal.com/designers/htmlarrows/symbols/
+How to display emoji's in HTML
+Emojis can also be displayed in the same way:
+
+Top 10 most used emojis
+Phone
+Star
+Cloud
+Umbrella
