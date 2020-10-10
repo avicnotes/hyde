@@ -32,7 +32,7 @@ A comment tag is a HTML tag that is used to add comments to a HTML page. A HTML 
 </li>
 
 ## Single line comments in HTML
-<img src="repos/hyde/public/2020/single-line-html-comment.png" alt="single line comment example"/>
+<img src="/public/2020/single-line-html-comment.png" alt="single line comment example"/>
 
 An example of a single-line HTML comment tag is:
 
@@ -40,7 +40,7 @@ An example of a single-line HTML comment tag is:
 
 
 ## Multi-lines comments in HTML
-<img src="repos/hyde/public/2020/multi-line-html-comment.png" alt="multiline comment example"/>
+<img src="/public/2020/multi-line-html-comment.png" alt="multiline comment example"/>
 
 If you want to comment out a whole HTML section, you can use a multi-line HTML comment as shown below:
 
