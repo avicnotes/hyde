@@ -1,12 +1,20 @@
 ---
 title: What is comment tag in HTML?
-date: 2019-10-14T10:11:14+00:00
+date: 2020-10-10T10:11:14+00:00
 author: avic
 layout: post
-permalink: /what-is-comment-tag-in-html/
+permalink: /make-singleline-and-multiline-comments-html/
 categories:
   - HTML
 ---
+<img src="/public/2020/single-multi-line-comments-html.png" alt="image showing single-line and multiline comments in HTML">
+You can create a single line comment by putting &lt;!-- at the start and --&gt; at the end of your comment.
+
+You can also make a multi-line comment in HTML by adding &lt;!-- at the beginning of your comment and --&gt; at the end of your multi-line comment. 
+
+## Comments tags in HTML
+&lt;!-- Signify the beginning of your comment and --&gt; indicate the end of your comment. So it is important to ensure that your HTML comment does not contain &lt;!-- and --&gt; inside it. If they happen to be inside the comment, your comment might break and stop becoming a comment.
+
 A comment tag is a HTML tag that is used to add comments to a HTML page. A HTML comment tag must have:
 
 <li style="list-style-type: none;">
@@ -23,13 +31,18 @@ A comment tag is a HTML tag that is used to add comments to a HTML page. A HTML 
   </ol>
 </li>
 
+## Single line comments in HTML
+<img src="repos/hyde/public/2020/single-line-html-comment.png" alt="single line comment example">
+
 An example of a single-line HTML comment tag is:
 
 <pre>&lt;!-- This is a single line HTML comment --&gt;</pre>
 
-If you want to comment out a whole HTML section, you can use a multi-line HTML comment as shown below:
 
-<!--more-->
+## Multi-lines comments in HTML
+<img src="repos/hyde/public/2020/multi-line-html-comment.png" alt="multiline comment example">
+
+If you want to comment out a whole HTML section, you can use a multi-line HTML comment as shown below:
 
 <pre>&lt;!-- This is a multi-line HTML comment
   It contains a lot of HTML content inside it.
