@@ -7,7 +7,7 @@ permalink: /make-singleline-and-multiline-comments-html/
 categories:
   - HTML
 ---
-<img src="/public/2020/single-multi-line-comments-html.png" alt="image showing single-line and multiline comments in HTML">
+<img src="/public/2020/single-multi-line-comments-html.png" alt="image showing single-line and multiline comments in HTML"/>
 You can create a single line comment by putting &lt;!&#45;&#45; at the start and &#45;&#45;&gt; at the end of your comment.
 
 You can also make a multi-line comment in HTML by adding &lt;!&#45;&#45; at the beginning of your comment and &#45;&#45;&gt; at the end of your multi-line comment. 
@@ -32,7 +32,7 @@ A comment tag is a HTML tag that is used to add comments to a HTML page. A HTML 
 </li>
 
 ## Single line comments in HTML
-<img src="repos/hyde/public/2020/single-line-html-comment.png" alt="single line comment example">
+<img src="repos/hyde/public/2020/single-line-html-comment.png" alt="single line comment example"/>
 
 An example of a single-line HTML comment tag is:
 
@@ -40,7 +40,7 @@ An example of a single-line HTML comment tag is:
 
 
 ## Multi-lines comments in HTML
-<img src="repos/hyde/public/2020/multi-line-html-comment.png" alt="multiline comment example">
+<img src="repos/hyde/public/2020/multi-line-html-comment.png" alt="multiline comment example"/>
 
 If you want to comment out a whole HTML section, you can use a multi-line HTML comment as shown below:
 
