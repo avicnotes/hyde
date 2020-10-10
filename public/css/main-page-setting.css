@@ -54,16 +54,20 @@ footer {
 }
 
 footer div {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
   margin-bottom:10px;
 }
+@media (min-width: 48em) {
+  footer div {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-bottom:10px;
+  }
 
 footer div a{
   text-decoration: none;
   padding: .75rem 1.25rem;
-  margin: 0 .25rem;
+  margin: .25rem;
   font-size: 1rem;
   border:1px solid #02781c;
   border-radius: .35rem;
