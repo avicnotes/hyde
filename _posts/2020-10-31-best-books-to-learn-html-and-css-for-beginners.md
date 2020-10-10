@@ -1,3 +1,11 @@
+---
+title: 'Best books to learn html for beginners'
+date: 2020-04-08T09:29:49+00:00
+author: avic
+layout: post
+description: A tribute page is the most beginner friendly HTML project. You can checkout the project description and the skills you will be practicing.
+permalink: /best-html-css-books-for-beginners/
+---
 best book to learn html for beginners
 
 <ol><li><h2 id="books">HTML and CSS Books</h2></li></ol>
