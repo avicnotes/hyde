@@ -38,3 +38,15 @@ The final project should look like this:
   2. Create a [HTML-only Tribute Page](/html-projects-tribute-page/)
   3. Create a [HTML-only Google Search Result page](/html-projects-google-search-result/)
   4. Create a <a href="/html-sign-up-form-page/">HTML-only Signup form page</a>
+
+## Where to publish your Html project
+### Codepen
+
+Codepen is the easiest one to setup. You just need an account to begin with. Then create a new pen and copy paste your HTML code there.
+
+### Github
+This one takes a bit more time to setup. However, you can use the Github.com web based editor to upload or copy paste your HTML.
+
+Then you need to go to the repository setting to enable the projects to be viewed on (your-username).github.io/(repository-name).
+
+If you are still stuck on what to do for your first HTML project, checkout my step by step illustrated guide on how to [create your first HTML web page.](https://devpractical.com/create-a-web-page-using-html/)
