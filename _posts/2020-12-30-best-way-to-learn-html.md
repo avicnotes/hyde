@@ -1,6 +1,10 @@
 ---
 title:'best way to learn HTML and CSS for beginners'
-
+date: 2020-12-30T09:29:49+00:00
+author: avic
+layout: post
+description: A tribute page is the most beginner friendly HTML project. You can checkout the project description and the skills you will be practicing.
+permalink: /best-ways-to-learn-html-css-beginners/
 ---
 
 best way to learn html for beginners
