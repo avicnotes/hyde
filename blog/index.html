@@ -18,7 +18,7 @@ layout: default
     </h2>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.content | split:"<!-- more -->" | first | strip_html | truncate:60 }}
+    {{ post.content | split:"<!-- more -->" | first | strip_html | truncate:50 }}
         <a href="{{ post.url }}">
           <strong>Read more</strong>
         </a>
