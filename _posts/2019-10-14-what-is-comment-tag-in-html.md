@@ -1,5 +1,5 @@
 ---
-title: What is comment tag in HTML?
+title: How to make a single line and multi-line comment in HTML
 date: 2020-10-10T10:11:14+00:00
 author: avic
 layout: post
