@@ -55,13 +55,15 @@ footer {
 
 footer div {
   display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 footer div a{
   text-decoration: none;
   padding: .75rem 1.25rem;
   margin: 0 .25rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
   border:1px solid #02781c;
   border-radius: .35rem;
 }
