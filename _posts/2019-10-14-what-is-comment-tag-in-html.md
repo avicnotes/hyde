@@ -13,7 +13,7 @@ You can create a single line comment by putting &lt;!&#45;&#45; at the start and
 You can also make a multi-line comment in HTML by adding &lt;!&#45;&#45; at the beginning of your comment and &#45;&#45;&gt; at the end of your multi-line comment. 
 
 ## Comments tags in HTML
-&lt;!&#45;&#45; Signify the beginning of your comment and &#45;&#45;&gt; indicate the end of your comment. So it is important to ensure that your HTML comment does not contain &lt;!&#45;&#45; and &#45;&#45;&gt; inside it. If they happen to be inside the comment, your comment might break and stop becoming a comment.
+The HTML tag &lt;!&#45;&#45; signify the beginning of your comment and &#45;&#45;&gt; indicate the end of your comment. So it is important to ensure that your HTML comment does not contain &lt;!&#45;&#45; and &#45;&#45;&gt; inside it. If they happen to be inside the comment, your comment might break and stop becoming a comment.
 
 A comment tag is a HTML tag that is used to add comments to a HTML page. A HTML comment tag must have:
 
