@@ -1,5 +1,5 @@
 ---
-title:'best way to learn HTML and CSS for beginners'
+title:best way to learn HTML and CSS for beginners
 date: 2020-12-30T09:29:49+00:00
 author: avic
 layout: post
