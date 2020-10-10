@@ -53,6 +53,18 @@ footer {
   text-align: center;
 }
 
+footer div {
+  display: flex;
+}
+
+footer div a{
+  text-decoration: none;
+  padding: .75rem 1.25rem;
+  margin: 0 .25rem;
+  font-size: 1.1rem;
+  border:1px solid #02781c;
+  border-radius: .35rem;
+}
 /*styling nav bar*/
 header {
     text-align: center;
