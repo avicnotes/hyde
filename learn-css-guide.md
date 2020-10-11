@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Learn CSS Guide: Focus on the important parts of CSS'
+title: 'CSS Guide/Roadmap: Things to learn in CSS'
 description:  Stop being overwhelmed by all the things to be learnt in CSS. Put your focus on the important parts of CSS by following along this CSS guide.
 ---
 1. How CSS works: Concepts you will need to first understand

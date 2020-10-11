@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learn HTML Guide
+title: Learn HTML Guide: things to learn in HTML
 ---
 ## List of things you should be able to accomplish when learning HTML.
 
