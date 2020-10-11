@@ -31,7 +31,7 @@ How are special characters represented in HTML?
 How do I display less than symbol in HTML?
 
 What is &# in HTML?
-
+html symbols chart
 
 
 Structure:
@@ -85,3 +85,33 @@ Phone
 Star
 Cloud
 Umbrella
+
+
+HTML symbols and special characters chart list
+
+|No.|Symbol name| Symbol |	HTML entity| Unicode Value|
+|--|-------|------|-------|-----|
+|1.|The Copyright Symbol | © |&copy;|
+|2.|The Registered Trademark Symbol | ® |&amp;reg;|
+|3.|The Trademark Symbol | ™ |&amp;#8482;|
+|4.| cent sign|¢|&cent;|
+|5.|Pound Sterling sign|£|&pound;| 
+|6.|Yen sign|¥|&yen;|
+|7.|Euro sign|€|&amp;euro;| &amp;#8364;|
+|8.|The Ampersand | & | &amp;amp;| |
+|9.|Less Than | < | &amp;lt;| ||
+|10.|Greater Than | > | &amp;gt;||
+|11.|The Non-breaking Space:| |
+|12.| New line space| 
+|13.|UPWARDS ARROW| ↑ | &amp;uarr;| &amp;#8593;	|
+|14.|RIGHTWARDS ARROW|→|&amp;rarr;| &amp;#8594;|
+|15.|DOWNWARDS ARROW|↓|&amp;darr; |&amp;#8595;|
+|16.|LEFTWARDS ARROW|←|&larr;|
+|17.|left-right arrow  | ↔ | &harr;| 
+|18.|left double arrow | ⇐ | &lArr; |
+|19.|up double arrow   | ⇑ | &uArr; |
+|20.|right double arrow| ⇒ | &rArr;| 
+|21.|down double arrow | ⇓ | &dArr;| 
+|22.|left-right double arrow | ⇔| &hArr;|
+French Accent Marks | (é or è):| |
+The Spanish Tilde | (ñ):| |
