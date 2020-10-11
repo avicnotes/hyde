@@ -18,7 +18,7 @@ However, through **HTML entities** you can display the HTML tags that are part o
 
 
 **Example**  
-So if you want to display: `<p> This is a paragraph </p>` on the browser, you write it as:  `&lt;p&gt;` This is a paragraph `&lt;p&gt;`.
+So if you want to display: `<p> This is a paragraph </p>` on the browser, you write it as:  `&lt;p&gt;` This is a paragraph `&lt;/p&gt;`.
 
 ## How to show HTML tags: HTML entities
 
@@ -52,7 +52,7 @@ The quickest way to replace alot of <(less than) and >(greater than) signs is to
 
 <img src="/public/04/mass-change-entities.png" alt="replace alot of html < and > in HTML tags" /> 
 
-To use this feature use &#8216;CTRL + H&#8217; or click on &#8216;FIND&#8217; on the menu bar and then click on replace. Add the symbol you want to replace on the find box and the entity you want to replace with on the replace box.
+To use this feature use "CTRL + H" or click on "FIND" on the menu bar and then click on "replace". Add the symbol you want to replace on the find box and the entity you want to replace with on the replace box.
 
 Then, click on replace or replace all.
 
