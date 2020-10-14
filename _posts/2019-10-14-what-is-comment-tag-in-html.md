@@ -3,14 +3,15 @@ title: How to make a single line and multi-line comment in HTML
 date: 2020-10-10T10:11:14+00:00
 author: avic
 layout: post
+description: 
 permalink: /make-singleline-and-multiline-comments-html/
 categories:
   - HTML
 ---
 <img src="/public/2020/single-multi-line-comments-html.png" alt="image showing single-line and multiline comments in HTML"/>
-You can create a single line comment by putting &lt;!&#45;&#45; at the start and &#45;&#45;&gt; at the end of your comment.
+You can create a single line comment by putting `<!--` at the start and `-->` at the end of your comment.
 
-You can also make a multi-line comment in HTML by adding &lt;!&#45;&#45; at the beginning of your comment and &#45;&#45;&gt; at the end of your multi-line comment. 
+You can also make a multi-line comment in HTML by adding `<!--` at the beginning of your comment and `-->` at the end of your multi-line comment. 
 
 ## Comments tags in HTML
 The HTML tag &lt;!&#45;&#45; signify the beginning of your comment and &#45;&#45;&gt; indicate the end of your comment. So it is important to ensure that your HTML comment does not contain &lt;!&#45;&#45; and &#45;&#45;&gt; inside it. If they happen to be inside the comment, your comment might break and stop becoming a comment.
