@@ -9,6 +9,7 @@ categories:
   - HTML
 ---
 <img src="/public/2020/single-multi-line-comments-html.png" alt="image showing single-line and multiline comments in HTML"/>
+
 You can create a single line comment by putting `<!--` at the start and `-->` at the end of your comment.
 
 You can also make a multi-line comment in HTML by adding `<!--` at the beginning of your comment and `-->` at the end of your multi-line comment. 
