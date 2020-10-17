@@ -6,6 +6,7 @@ layout: page
 ---
 
 A list of Web Development projects you can create even if you only know HTML.
+<img src="/public/2020/projects-splash-page.png" alt="Web development screenshots mashup" />
 
 <hr/>
 
