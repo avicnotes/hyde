@@ -6,7 +6,7 @@ layout: post
 description: A tribute page is the most beginner friendly HTML project. You can checkout the project description and the skills you will be practicing.
 permalink: /html-projects-tribute-page/
 ---
-<img class="alignnone size-full" src="https://miro.medium.com/max/700/1*QMlF5qHP4J-LmHG0bFsRCA.png" alt="Tribute page screenshot" />
+<img class="alignnone size-full" src="/public/2020/html-css-project-tribute-page.png" alt="Tribute page screenshot" />
 
 Stats
 
