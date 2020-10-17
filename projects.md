@@ -8,8 +8,6 @@ layout: page
 A list of Web Development projects you can create even if you only know HTML.
 <img src="/public/2020/projects-splash-page.png" alt="Web development screenshots mashup" />
 
-<hr/>
-
 ## HTML Projects
 
 A lot of people struggle with finding projects that they can complete using just HTML.
