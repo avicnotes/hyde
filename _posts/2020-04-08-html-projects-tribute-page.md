@@ -75,6 +75,7 @@ You can read the detailed [technical requirements of the tribute page](https://w
   <ol>
     <li>
       Create a<a href="/html-project-wikipedia"> html Wikipedia page clone</a>.
+      <img src="/public/2020/tribute-page-screenshot.jpg" alt="screenshot tribute page">
     </li>
     <li>
       Create a <a href="/html-projects-youtube-page/">html only Youtube page clone</a>.
