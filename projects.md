@@ -17,6 +17,7 @@ The first approach is to find pure HTML projects. If that is what you need, you 
 <ol>
   <li>
     <a href="/html-projects-tribute-page/">Tribute project page</a>
+    <img src="/public/2020/tribute-page-screenshot.jpg" alt="tribute page screenshot">
   </li>
   <li>
     <a href="/html-project-wikipedia">Wikipedia clone project page</a>
