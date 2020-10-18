@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="212.27568mm"
-   height="118.57113mm"
-   viewBox="0 0 212.27568 118.57113"
+   width="493.21527mm"
+   height="324.12643mm"
+   viewBox="0 0 493.21527 324.12644"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.47457256"
-     inkscape:cx="-78.071783"
-     inkscape:cy="341.66977"
+     inkscape:cx="50.600701"
+     inkscape:cy="1009.8478"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -46,31 +46,31 @@
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="-98.674463,124.72528"
+       position="-64.629867,153.49181"
        orientation="0,-1"
        id="guide947" />
     <sodipodi:guide
-       position="290.46996,0.71221626"
+       position="324.51455,29.478745"
        orientation="0,-1"
        id="guide949" />
     <sodipodi:guide
-       position="458.67053,-50.05785"
+       position="492.71512,-21.29132"
        orientation="1,0"
        id="guide980" />
     <sodipodi:guide
-       position="159.2827,-28.314598"
+       position="193.32729,0.45193142"
        orientation="0,-1"
        id="guide982" />
     <sodipodi:guide
-       position="427.44945,-72.916139"
+       position="461.49404,-44.149609"
        orientation="1,0"
        id="guide984" />
     <sodipodi:guide
-       position="310.92794,265.49805"
+       position="344.97253,294.26457"
        orientation="0,-1"
        id="guide986" />
     <sodipodi:guide
-       position="0.37797517,264.43251"
+       position="34.42257,293.19903"
        orientation="1,0"
        id="guide988" />
   </sodipodi:namedview>
@@ -90,14 +90,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(91.621437,-129.09813)">
+     transform="translate(125.66603,47.690647)">
     <rect
        style="fill:#008001;fill-opacity:1;stroke:none;stroke-width:1.00598;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect103"
        width="493.21527"
        height="324.12643"
        x="-125.66603"
-       y="-47.690647" />
+       y="-47.690647"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
     <image
        width="210.46686"
        height="163.86348"
@@ -1578,7 +1580,9 @@ GIZhWDQwDMMwDPPn5P8FAAD//+X6J5Xt8bVWAAAAAElFTkSuQmCC
 "
        id="image20"
        x="-91.243462"
-       y="-16.763239" />
+       y="-16.763239"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
     <image
        width="205.00053"
        height="135.30035"
@@ -6044,7 +6048,9 @@ M1zJzBPv7u52lhRYdQj+HwYN/08AAAD//8w67MJuJa1mAAAAAElFTkSuQmCC
 "
        id="image90"
        x="130.64276"
-       y="135.23297" />
+       y="135.23297"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
     <image
        width="206.70033"
        height="139.96567"
@@ -7033,14 +7039,18 @@ QmCC
 "
        id="image62"
        x="129.32098"
-       y="-16.450066" />
+       y="-16.450066"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
     <rect
        style="fill:#008001;fill-opacity:1;stroke:none;stroke-width:0.829913;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect930"
        width="231.37601"
        height="25.075317"
        x="118.53757"
-       y="247.14011" />
+       y="247.14011"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
     <rect
        style="fill:#008001;fill-opacity:1;stroke:none;stroke-width:0.966855;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect930-9"
@@ -7049,7 +7059,9 @@ QmCC
        x="-101.66697"
        y="123.11012"
        inkscape:transform-center-x="114.90476"
-       inkscape:transform-center-y="-8.5053927" />
+       inkscape:transform-center-y="-8.5053927"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
     <image
        width="212.27568"
        height="118.57113"
@@ -10523,20 +10535,26 @@ OdTKAAAAAElFTkSuQmCC
 "
        id="image48"
        x="-91.621437"
-       y="129.09813" />
+       y="129.09813"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
     <rect
        style="fill:#008001;fill-opacity:1;stroke:none;stroke-width:1.05425;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect928"
        width="250.97618"
        height="136.82739"
        x="2.7970238"
-       y="51.933929" />
+       y="51.933929"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Kristen ITC';-inkscape-font-specification:'Kristen ITC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="15.875003"
        y="94.267265"
-       id="text953"><tspan
+       id="text953"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35"><tspan
          sodipodi:role="line"
          id="tspan951"
          x="15.875003"
@@ -10557,7 +10575,9 @@ OdTKAAAAAElFTkSuQmCC
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Kristen ITC';-inkscape-font-specification:'Kristen ITC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="58.26001"
        y="171.61772"
-       id="text953-8"><tspan
+       id="text953-8"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35"><tspan
          sodipodi:role="line"
          id="tspan951-6"
          x="58.26001"
