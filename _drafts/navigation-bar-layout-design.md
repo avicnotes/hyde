@@ -1,7 +1,9 @@
+Too much competition: will only create an article latter on a user needs basis not for organic traffic.
 =============================================================
 navbar layout html, navbar layout css, navigation bar layout, navigation bar layout html, navigation bar layout css, menu bar layout html, menu bar layout css, menu bar design css, menu bar navigation design css
 
 navigation bar design ideas, navigation bar design html css, navigation bar design templates, navigation bar design inspiration, navigation bar design for website, navigation bar design code
+mobile css menu examples
 
 10k-100k
 navigation bar
@@ -15,7 +17,8 @@ navbar design css
 nav bar designs css
 navbar css design
 navigation bar design css
-
+navigation bar design for website
+navigation bar design code
 
 10 – 100
 navigation bar layout
