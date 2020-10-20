@@ -24,14 +24,7 @@ layout types css
 layout styles html
 0 – 10
 
-=============================================================
 
-
-navbar layout, navbar design, navigation bar layout article
-Take screenshots of actual websites and designs and share them on the webpage.
-
-logo at the top, links to various pages under it
-soundproofcentral.com
 
 
 layouts	
