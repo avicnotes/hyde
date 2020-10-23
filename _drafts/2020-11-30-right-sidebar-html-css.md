@@ -1,6 +1,6 @@
 ---
 title: how to create a simple right sidebar html css layout
-date: 2020-10-30T08:03:08+00:00
+date: 2020-12-30T08:03:08+00:00
 author: avic
 layout: post
 description: Learn the basics of HTML

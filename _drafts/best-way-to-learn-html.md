@@ -1,4 +1,6 @@
+Easiest way to learn HTML
 
+If I find this article structure weird, it because i have converted the article from best way to learn html
 Outline
 
 I will start of with people learn in different ways. Some of you prefer reading a book to watching a video tutorial. That is fine. Use whichever way suits you. However, what will matter most when learning HTML is what you do with what you learn. You have to build something, otherwise, you can't assess your progress and understanding.

@@ -16,10 +16,12 @@ There are 5 main parts of any web page layout that you will encounter are. These
 - sidebars
 - footers
 
+Most web pages will contain all the five parts. However, some web pages may omit some of the parts e.g.
+	- a landing page or a sales page may omit the sidebar.
+	- a one page website may omit the navigation bar.
+	- a website may place the navigation bar where the sidebar is usually positioned.
 
-Most web pages will contain all the five parts. However, some web pages may omit the sidebar, incase of a one column layout.
-
-Don't worry if the words sound like jargon. By the end of our time together, you will have a good understanding of each part of a website layout and its function.
+Don't worry if these terms sound like jargon for now. By the end of our time together, you will have a good understanding of each part of a website layout and its function.
 
 ## 5 main parts of a web page layout with their functions
 
@@ -91,7 +93,7 @@ A web page layout is an important aspect of a website. A well planned layout ena
 </ol>
 
 ## What are the main parts of a mobile friendly website layout
-<img src="/public/2020/" alt=" "/>
+<img src="/public/2020/mobile-layout-cricket-eating-website.jpg" alt="mobile-layout-cricket-eating-website"/>
 
 Mobile friendly layout presents content in a single column consisting of header, navigation bar, main content area, and footer.
 
@@ -99,16 +101,16 @@ All the content is arranged in such a way that it apears in one column. This mea
 
 If a sidebar happen to exist in the general layout, it is displayed below the main content area and above the footer on the mobile layout.
 
-## labeled parts of a web page layout examples
+The sidebar is displayed at the top of the mobile page, if your website has navigation bar appearing where the sidebar is normally positioned on desktop.
 
-### Desktop web page layout examples
+## Parts of a Desktop web page layout examples
 <img src="/public/2020/parts-of-a-web-page-cricket-eating-with-boxes.png" alt="Desktop website layout labelled"/>
 
 
-### Mobile web page layout examples 
-<img src="/public/2020/" alt=" "/>
+## Parts of a Mobile web page layout examples 
+<img src="/public/2020/mobile-layout-cricket-eating-website.jpg" alt=" "/>
 
-### Tablet web page layout examples
+## Parts of a Tablet mobile-layout-cricket-eating-website layout examples
 <img src="/public/2020/" alt=" "/>
 
 
@@ -131,6 +133,3 @@ parts of a web page layout
 100 – 1K
 dividing a web page into sections
 10 – 100
-
-https://www.alvipixels.co.uk/blog/tutorials/basics-of-website-layout-part-1/
-https://www.markbrinker.com/parts-of-a-website
